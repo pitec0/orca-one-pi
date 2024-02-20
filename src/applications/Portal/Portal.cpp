@@ -1,5 +1,8 @@
+#include "RunScreen.h"
 #include "portal.h"
+#include "../../services/gui/ScreenManager.h"
 
+using namespace Applications::Portal;
 using namespace Applications::Services::GUI;
 
 void portal_loop(){
